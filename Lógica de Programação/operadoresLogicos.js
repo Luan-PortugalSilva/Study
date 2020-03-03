@@ -16,3 +16,7 @@ console.log(expressaoOR)
 
 const expressaoNOT = !true
 console.log(expressaoNOT)
+
+const a = 5
+const b = 1
+console.log( a + b)
