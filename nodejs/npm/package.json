@@ -1,0 +1,14 @@
+{
+  "name": "Study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "Keywords": [],
+  "repository": "git@github.com:Luan-PortugalSilva/Study.git",
+  "author": "Luan Portugal <luanportugal.contato@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
